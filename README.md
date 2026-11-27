@@ -1,19 +1,33 @@
-# Aish Saini | Developer Portfolio
+# Aish Saini — Developer Portfolio
 
-BCA (AI & Data Science) Student | K.R. Mangalam University, Gurugram
+> BCA (AI & Data Science) Student | K.R. Mangalam University, Gurugram | Batch 2026-2029
+
+---
 
 ## Repository Index
 
 | Repository | Description | Tech Stack | Status |
 |------------|-------------|------------|--------|
-| [cse103-lab-Lab3](https://github.com/sainiaish90/cse103-lab-Lab3) | CSE103 lab work: Git, shell scripting | Git, Bash, Python | Active |
+| [cse103-lab-Lab3](https://github.com/sainiaish90/cse103-lab-Lab3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
+| [developer-portfolio](https://github.com/sainiaish90/developer-portfolio) | This portfolio index | Markdown | Active |
 
-## Skills
+---
 
-- **Languages:** Bash / Shell Scripting, Python (Beginner)
-- **Tools:** Git, GitHub, VS Code, Linux Terminal (Ubuntu on WSL)
-- **Concepts:** File Systems, File Permissions, Process Management, Version Control
+## Current Skills
 
-## Documents
+Python       [█████░░░░░] 50%
+Linux / Bash [████░░░░░░] 40%
+Git / GitHub [█████░░░░░] 50%
 
-- **Resume:** [my_resume_v1.pdf](my_resume_v1.pdf)
+---
+
+## Learning Roadmap
+
+See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
+
+## Progress Tracker
+
+See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
+- Learning Roadmap: See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
+- Progress Tracker: See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
+-
